@@ -4,3 +4,7 @@
 4. Agregar queso mozarella, disperso en la pizza
 5. Agregar peperoni, disperso en la pizza
 6. Meter al Horno dejar 10 minutos a 250 grados
+7. pasado el tiempo sacamos del horno 
+8. esperamos se enfrie un poco 
+9. agegamos albahaca y chile seco 
+10. cortamos en trozos
